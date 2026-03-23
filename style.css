@@ -1,0 +1,7 @@
+.option-btn {
+    border: 2px solid #0d6efd; 
+    background-color: white;    
+    color: #0d6efd;
+    transition: all 0.3s;       
+}
+/*it was overriding the bootstrap btn-outline-primary thats why I included custom css seperately//
