@@ -20,7 +20,7 @@ A simple and interactive **Quiz Application** built with **JavaScript** and **Bo
 
 ## Live Demo
 
-[View the Quiz App Live](https://yourusername.github.io/quiz-app/)  
+[View the Quiz App Live](https://warda-create.github.io/quiz-app/)  
 
 ---
 
