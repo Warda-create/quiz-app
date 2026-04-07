@@ -8,13 +8,13 @@ A simple and interactive **Quiz Application** built with **JavaScript** and **Bo
 ---
 
 ### Main Quiz Screen
-![Main Quiz](images/quiz-main.png)
+![Main Quiz](images/quiz-main.PNG)
 
 ### Answer Feedback
-![Answer Feedback](images/quiz-feedback.png)
+![Answer Feedback](images/quiz-feedback.PNG)
 
 ### Final Result
-![Final Result](images/quiz-result.png)
+![Final Result](images/quiz-result.PNG)
 
 
 
